@@ -1,0 +1,1 @@
+const piValue = alert(Math.PI);
